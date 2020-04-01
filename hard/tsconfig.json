@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+        "noImplicitAny": true,
+        "lib": ["es6", "dom", "es2017"],
+		"pretty": true,
+		"removeComments": false,
+		"sourceMap": false,
+		"suppressImplicitAnyIndexErrors": true,
+		"target": "ESNext"
+	}
+}
